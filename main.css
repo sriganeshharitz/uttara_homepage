@@ -73,7 +73,7 @@ a:focus {
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 .container img {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid lightgrey;
 }
 .main-footer {
     /* position: fixed;
