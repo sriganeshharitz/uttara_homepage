@@ -9,23 +9,30 @@ a:hover,
 a:focus {
     text-decoration: none;
 }
-.main-header {
+.navbar {
     background: rgb(145, 233, 255);
-    padding: 8px 16px;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-    z-index: 1;
 }
-.brand {
-    display: inline-block;
-    vertical-align: middle;
+.navbar a {
+    color: rgb(2, 60, 87);
+    font-weight: bold;
 }
-.brand img {
-    width: calc(479px/6);
-    height: calc(464px/6);
-}
+/*.main-header {*/
+    /*background: rgb(145, 233, 255);*/
+    /*padding: 8px 16px;*/
+    /*position: fixed;*/
+    /*width: 100%;*/
+    /*top: 0;*/
+    /*left: 0;*/
+    /*z-index: 1;*/
+/*}*/
+/*.brand {*/
+    /*display: inline-block;*/
+    /*vertical-align: middle;*/
+/*}*/
+/*.navbar-brand img {*/
+    /*width: calc(479px/8);*/
+    /*height: calc(464px/8);*/
+/*}*/
 .title {
     display: inline-block;
     vertical-align: middle;
